@@ -1,0 +1,48 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@tailwindcss/forms": "^0.5.2",
+        "@tailwindcss/typography": "^0.5.15",
+        "alpinejs": "^3.4.2",
+        "autoprefixer": "^10.4.19",
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0.0",
+        "postcss": "^8.4.39",
+        "tailwindcss": "^3.4.6",
+        "vite": "^5.0.0"
+    },
+    "dependencies": {
+        "@ckeditor/ckeditor5-build-classic": "^43.2.0",
+        "@ckeditor/ckeditor5-vue": "^7.2.0",
+        "@tinymce/tinymce-vue": "^6.0.1",
+        "@tiptap/pm": "^2.8.0",
+        "@tiptap/starter-kit": "^2.8.0",
+        "@tiptap/vue-3": "^2.8.0",
+        "@tsparticles/vue3": "^3.0.1",
+        "@unhead/vue": "^1.11.10",
+        "@vitejs/plugin-vue": "^5.0.5",
+        "@vueup/vue-quill": "^1.2.0",
+        "@vueuse/core": "^13.1.0",
+        "apexcharts": "^3.51.0",
+        "canvas-confetti": "^1.9.3",
+        "chart.js": "^3.9.1",
+        "mitt": "^3.0.1",
+        "pinia": "^2.1.7",
+        "pinia-plugin-persistedstate": "^3.2.1",
+        "quill": "^2.0.2",
+        "swiper": "^11.1.11",
+        "vue-chart-3": "^3.1.8",
+        "vue-confetti-explosion": "^1.0.2",
+        "vue-flatpickr-component": "^11.0.5",
+        "vue-router": "^4.4.0",
+        "vue-social-sharing": "^4.0.0-alpha4",
+        "vue-wysiwyg": "^1.7.2",
+        "vue3-apexcharts": "^1.5.3",
+        "vue3-quill": "^0.3.1"
+    }
+}
